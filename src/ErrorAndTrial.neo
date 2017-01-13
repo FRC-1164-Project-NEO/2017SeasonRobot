@@ -1,0 +1,25 @@
+frontRightDrive		3
+frontLeftDrive 		0
+backRightDrive 		4
+backLeftDrive 		1 
+
+LeftEncoderA		0
+LeftEncoderB		1
+RightEncoderA		2
+RightEncoderB		3
+
+ShifterSolenoid		7
+ShifterSolenoid2	6
+
+DriveAxisX			2
+DriveAxisY			1
+
+HighShiftButton		7
+LowShiftButton		5
+
+HighGearYGain		1
+HighGearXGain		-0.5
+LowGearYGain		1
+LowGearXGain		-0.5
+
+allNumsNeedToBeReplaced
